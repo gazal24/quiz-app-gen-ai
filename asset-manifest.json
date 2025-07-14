@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/quiz-gen-ai/static/css/main.1b075a6d.css",
+    "main.js": "/quiz-gen-ai/static/js/main.60214465.js",
+    "static/js/448.58d17a51.chunk.js": "/quiz-gen-ai/static/js/448.58d17a51.chunk.js",
+    "static/js/453.eff36b44.chunk.js": "/quiz-gen-ai/static/js/453.eff36b44.chunk.js",
+    "static/media/logo.svg": "/quiz-gen-ai/static/media/logo.bf2be48a4df531bc59a86c59f88c769b.svg",
+    "index.html": "/quiz-gen-ai/index.html",
+    "main.1b075a6d.css.map": "/quiz-gen-ai/static/css/main.1b075a6d.css.map",
+    "main.60214465.js.map": "/quiz-gen-ai/static/js/main.60214465.js.map",
+    "448.58d17a51.chunk.js.map": "/quiz-gen-ai/static/js/448.58d17a51.chunk.js.map",
+    "453.eff36b44.chunk.js.map": "/quiz-gen-ai/static/js/453.eff36b44.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1b075a6d.css",
+    "static/js/main.60214465.js"
+  ]
+}
