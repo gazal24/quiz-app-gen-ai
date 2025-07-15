@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/quiz-app-gen-ai/static/css/main.1b075a6d.css",
+    "main.css": "/quiz-app-gen-ai/static/css/main.fd8d35e6.css",
     "main.js": "/quiz-app-gen-ai/static/js/main.8936eade.js",
     "static/js/448.58d17a51.chunk.js": "/quiz-app-gen-ai/static/js/448.58d17a51.chunk.js",
     "static/js/453.eff36b44.chunk.js": "/quiz-app-gen-ai/static/js/453.eff36b44.chunk.js",
     "static/media/logo.svg": "/quiz-app-gen-ai/static/media/logo.bf2be48a4df531bc59a86c59f88c769b.svg",
     "index.html": "/quiz-app-gen-ai/index.html",
-    "main.1b075a6d.css.map": "/quiz-app-gen-ai/static/css/main.1b075a6d.css.map",
+    "main.fd8d35e6.css.map": "/quiz-app-gen-ai/static/css/main.fd8d35e6.css.map",
     "main.8936eade.js.map": "/quiz-app-gen-ai/static/js/main.8936eade.js.map",
     "448.58d17a51.chunk.js.map": "/quiz-app-gen-ai/static/js/448.58d17a51.chunk.js.map",
     "453.eff36b44.chunk.js.map": "/quiz-app-gen-ai/static/js/453.eff36b44.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.1b075a6d.css",
+    "static/css/main.fd8d35e6.css",
     "static/js/main.8936eade.js"
   ]
 }
